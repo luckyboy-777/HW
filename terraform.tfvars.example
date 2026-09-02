@@ -1,5 +1,0 @@
-cloud_id  = "b1gxxxxxxxxxxxxxxxxx"
-folder_id = "b1gxxxxxxxxxxxxxxxxx"
-# Do not put the service-account key in this file.
-# Set its path before Terraform commands:
-# $env:YC_SERVICE_ACCOUNT_KEY_FILE = "C:\\path\\to\\key.json"
